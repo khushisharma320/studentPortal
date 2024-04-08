@@ -69,7 +69,7 @@ const Login = () => {
     return (
         <div>
             <div className="container mt-5">
-                <section className="d-flex justify-content-evenly flex-lg-row">
+                <section className="d-flex justify-content-evenly flex-lg-row flex-column">
                     <div className="left_data" style={{ width: "100%" }}>
                         <h4 className="text-center col-lg-8 mb-4">Log In</h4>
                         <Form>
